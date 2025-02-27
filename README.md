@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIMKCN
 - 👀 I’m interested in ...Coding, Music
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...VueJS and Tailwindcss
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...DM's
 
